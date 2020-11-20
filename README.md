@@ -1,3 +1,16 @@
+# Assignment One
+
+1. Setup development environment
+2. Clone this project
+3. Update author in Cargo.toml file
+4. Run a testnet and send a transaction
+5. Make screenshots of the Polkadot-JS Apps UI including the transaction details
+6. Make screenshots of stdout of node file and highlight the block number containing the transaction
+7. Submit the screenshots to submission folder
+8. Push all the changes
+
+---
+
 # Substrate Node Template
 
 A new FRAME-based Substrate node, ready for hacking :rocket:
